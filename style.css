@@ -9,3 +9,5 @@
 .a8-content a{display:block;max-width:100%}
 .a8-content a img{display:block;max-width:100%;height:auto;margin-left:auto;margin-right:auto}
 .a8-article-end{margin:22px 20px 0}
+
+.a8-help{font-size:12px;color:var(--muted);margin:10px 0}
